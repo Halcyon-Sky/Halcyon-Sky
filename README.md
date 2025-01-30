@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java.
 - 💞️ I’m not looking to collaborate on anything at the moment.
 - 📫 How to reach me: mjhalcyon (Discord)
-- 😄 Pronouns: He/They
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have written approximately 1.66 languages worth of complete conlang grammars.
 
 <!---
